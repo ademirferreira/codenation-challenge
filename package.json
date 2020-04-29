@@ -1,0 +1,12 @@
+{
+  "name": "codenation_challenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Ademir Ferreira <whoisademir@gmail.com> (https://ademirferreira.github.io/)",
+  "license": "MIT"
+}
