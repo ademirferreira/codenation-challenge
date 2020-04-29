@@ -8,5 +8,8 @@
   },
   "keywords": [],
   "author": "Ademir Ferreira <whoisademir@gmail.com> (https://ademirferreira.github.io/)",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.19.2"
+  }
 }
