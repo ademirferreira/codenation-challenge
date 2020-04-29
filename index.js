@@ -7,6 +7,7 @@ const main = async () => {
   const message = await service.generateData();
   decode.decodeMessage(message)
   hash.createHash(message)
+  service.submitAnswer();
 }
 
 main()
