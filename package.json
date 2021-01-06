@@ -10,7 +10,7 @@
   "author": "Ademir Ferreira <whoisademir@gmail.com> (https://ademirferreira.github.io/)",
   "license": "MIT",
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "form-data": "^3.0.0"
   }
 }
